@@ -1,0 +1,9 @@
+{
+    "rackspace": {
+        "username": "your-user-name",
+        "apiKey": "your-api-key",
+        "region": "DFW"
+    },
+    "container": "website",
+    "environment": "@@environment"
+}
